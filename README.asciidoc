@@ -1,6 +1,8 @@
 VHPOP 2.2
 =========
 
+image::https://secure.travis-ci.org/Tarrasch/vhpop.png[CI Status master]
+
 VHPOP is a versatile heuristic partial order planner loosely based on
 UCPOP with the following main features:
 
