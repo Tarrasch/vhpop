@@ -29,6 +29,12 @@
 #include <utility>
 #include <climits>
 
+#include <stdio.h>
+#include <stdint.h>
+#include <cstring>
+#include <string.h>
+#include <limits.h>
+
 
 /* Generates a random number in the interval [0,1). */
 static double rand01ex() {

@@ -24,6 +24,8 @@
 #include "types.h"
 #include "debug.h"
 #include <typeinfo>
+#include <limits.h>
+#include <string.h>
 
 
 /* ====================================================================== */

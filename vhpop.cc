@@ -37,6 +37,12 @@
 #include "getopt.h"
 #endif
 
+#include <stdio.h>
+#include <stdint.h>
+#include <cstring>
+#include <string.h>
+#include <limits.h>
+
 #ifdef ALWAYS_DELETE_ALL
 #define ALWAY_DELETE_ALL 1
 #else
